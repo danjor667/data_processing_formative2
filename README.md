@@ -36,9 +36,7 @@ This project focuses on **data cleaning, augmentation, merging, and feature sele
 
 ## **Presentation**  
 
-```
 📜 VIDEO [LINK](https://youtu.be/kFfM_hPpt6c)
-```
 
 ---
 
