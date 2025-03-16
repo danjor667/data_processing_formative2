@@ -34,50 +34,14 @@ This project focuses on **data cleaning, augmentation, merging, and feature sele
 
 ---
 
-## **Project Structure**  
+## **Presentation**  
 
 ```
-📂 data_processing/        # Data cleaning and augmentation scripts
-📂 dataset_merging/        # Merging and linking datasets
-📂 feature_engineering/    # Feature selection and transformation
-📂 data/                   # Raw and processed datasets
-📂 notebooks/              # Jupyter Notebooks for each step
-📜 README.md               # Project Documentation
-📜 requirements.txt         # Python dependencies (global)
+📜 VIDEO [LINK](https://youtu.be/kFfM_hPpt6c)
 ```
 
 ---
 
-## **Setup Instructions**  
-
-### **1. Install Dependencies**
-Make sure Python **3.8+** is installed. Then run:
-```bash
-pip install -r requirements.txt
-```
-
-### **2. Run Data Processing**
-```bash
-cd data_processing
-python clean_data.py
-```
-This step removes missing values and applies augmentation.
-
-### **3. Merge Datasets**
-```bash
-cd dataset_merging
-python merge_datasets.py
-```
-This links customer transaction data with social media data.
-
-### **4. Run Feature Selection**
-```bash
-cd feature_engineering
-python select_features.py
-```
-This applies feature selection techniques to refine the dataset.
-
----
 
 ## **Contributors**  
 
