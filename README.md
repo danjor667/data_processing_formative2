@@ -20,7 +20,7 @@ This project focuses on **data cleaning, augmentation, merging, and feature sele
 - Merged **customer transactions** with **social profile data**, linking them using an **ID mapping dataset**.  
 - Standardized different customer ID formats to maintain consistency.  
 - Handled cases where a single customer ID had multiple records.  
-- Saved the merged dataset as `final_customer_data_[groupNumber].csv`.  
+- Saved the merged dataset as `final_customer_data_[Databases-Peer-2].csv`.  
 
 ### **3. Feature Selection**  
 - Created a **Customer Engagement Score** using transaction history and social media activity.  
