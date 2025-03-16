@@ -40,14 +40,17 @@ This project focuses on **data cleaning, augmentation, merging, and feature sele
 
 ---
 
+## PDF and Doc Links
+- Notebook: [LINK](https://github.com/danjor667/data_processing_formative2/blob/master/Notebook%2C%20Initial%20Dataset%2C%20and%20Derived%20Datasets/notebook.ipynb)
+- PDF: [LINK](https://github.com/danjor667/data_processing_formative2/blob/master/Formative%20Summary.pdf)
 
 ## **Contributors**  
 
 ### **Data Cleaning and Augmentation**
-- **[Name]** – Processed missing values, applied augmentation techniques.  
+- **Bonyu Miracle Glen** – Processed missing values, applied augmentation techniques.  
 
 ### **Dataset Merging**
-- **[Name]** – Merged multiple datasets, standardized formats.  
+- **Nguepi Jordan Lopez** – Merged multiple datasets, standardized formats.  
 
 ### **Feature Selection**
 - **Peter Johnson** – Analyzed correlations and selected key features.  
