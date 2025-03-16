@@ -43,7 +43,7 @@ This project focuses on **data cleaning, augmentation, merging, and feature sele
 📂 data/                   # Raw and processed datasets
 📂 notebooks/              # Jupyter Notebooks for each step
 📜 README.md               # Project Documentation
-📜 requirements.txt         # Python dependencies
+📜 requirements.txt         # Python dependencies (global)
 ```
 
 ---
